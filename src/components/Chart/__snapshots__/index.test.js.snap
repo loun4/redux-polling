@@ -1,0 +1,1897 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Chart 1`] = `
+<div
+  className="recharts-wrapper"
+  style={
+    Object {
+      "cursor": "default",
+      "height": 300,
+      "position": "relative",
+      "width": 800,
+    }
+  }
+>
+  <svg
+    className="recharts-surface"
+    height={300}
+    version="1.1"
+    viewBox="0 0 800 300"
+    width={800}
+  >
+    <defs>
+      <clipPath
+        id="recharts3-clip"
+      >
+        <rect
+          height={260}
+          width={710}
+          x={60}
+          y={5}
+        />
+      </clipPath>
+    </defs>
+    <g
+      className="recharts-cartesian-grid"
+    >
+      <g
+        className="recharts-cartesian-grid-horizontal"
+      >
+        <line
+          fill="none"
+          height={260}
+          offset={
+            Object {
+              "bottom": 35,
+              "brushBottom": 35,
+              "height": 260,
+              "left": 60,
+              "right": 30,
+              "top": 5,
+              "width": 710,
+            }
+          }
+          stroke="#ccc"
+          width={710}
+          x={60}
+          x1={60}
+          x2={770}
+          y={5}
+          y1={265}
+          y2={265}
+        />
+        <line
+          fill="none"
+          height={260}
+          offset={
+            Object {
+              "bottom": 35,
+              "brushBottom": 35,
+              "height": 260,
+              "left": 60,
+              "right": 30,
+              "top": 5,
+              "width": 710,
+            }
+          }
+          stroke="#ccc"
+          width={710}
+          x={60}
+          x1={60}
+          x2={770}
+          y={5}
+          y1={200}
+          y2={200}
+        />
+        <line
+          fill="none"
+          height={260}
+          offset={
+            Object {
+              "bottom": 35,
+              "brushBottom": 35,
+              "height": 260,
+              "left": 60,
+              "right": 30,
+              "top": 5,
+              "width": 710,
+            }
+          }
+          stroke="#ccc"
+          width={710}
+          x={60}
+          x1={60}
+          x2={770}
+          y={5}
+          y1={135}
+          y2={135}
+        />
+        <line
+          fill="none"
+          height={260}
+          offset={
+            Object {
+              "bottom": 35,
+              "brushBottom": 35,
+              "height": 260,
+              "left": 60,
+              "right": 30,
+              "top": 5,
+              "width": 710,
+            }
+          }
+          stroke="#ccc"
+          width={710}
+          x={60}
+          x1={60}
+          x2={770}
+          y={5}
+          y1={70}
+          y2={70}
+        />
+        <line
+          fill="none"
+          height={260}
+          offset={
+            Object {
+              "bottom": 35,
+              "brushBottom": 35,
+              "height": 260,
+              "left": 60,
+              "right": 30,
+              "top": 5,
+              "width": 710,
+            }
+          }
+          stroke="#ccc"
+          width={710}
+          x={60}
+          x1={60}
+          x2={770}
+          y={5}
+          y1={5}
+          y2={5}
+        />
+      </g>
+    </g>
+    <g
+      className="recharts-layer recharts-cartesian-axis recharts-xAxis xAxis"
+    >
+      <line
+        className="recharts-xAxis xAxis"
+        fill="none"
+        height={30}
+        orientation="bottom"
+        stroke="#666"
+        type="category"
+        viewBox={
+          Object {
+            "height": 300,
+            "width": 800,
+            "x": 0,
+            "y": 0,
+          }
+        }
+        width={710}
+        x={60}
+        x1={60}
+        x2={770}
+        y={265}
+        y1={265}
+        y2={265}
+      />
+      <g
+        className="recharts-cartesian-axis-ticks"
+      >
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={60}
+            x2={60}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={60}
+            >
+              1
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={104.375}
+            x2={104.375}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={104.375}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={104.375}
+            >
+              2
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={148.75}
+            x2={148.75}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={148.75}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={148.75}
+            >
+              3
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={193.125}
+            x2={193.125}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={193.125}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={193.125}
+            >
+              4
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={237.5}
+            x2={237.5}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={237.5}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={237.5}
+            >
+              5
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={281.875}
+            x2={281.875}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={281.875}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={281.875}
+            >
+              6
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={326.25}
+            x2={326.25}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={326.25}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={326.25}
+            >
+              7
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={370.625}
+            x2={370.625}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={370.625}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={370.625}
+            >
+              8
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={415}
+            x2={415}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={415}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={415}
+            >
+              9
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={459.375}
+            x2={459.375}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={459.375}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={459.375}
+            >
+              10
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={503.75}
+            x2={503.75}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={503.75}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={503.75}
+            >
+              11
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={548.125}
+            x2={548.125}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={548.125}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={548.125}
+            >
+              12
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={592.5}
+            x2={592.5}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={592.5}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={592.5}
+            >
+              13
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={636.875}
+            x2={636.875}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={636.875}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={636.875}
+            >
+              14
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={681.25}
+            x2={681.25}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={681.25}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={681.25}
+            >
+              15
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={725.625}
+            x2={725.625}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={725.625}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={725.625}
+            >
+              16
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-xAxis xAxis"
+            fill="none"
+            height={30}
+            orientation="bottom"
+            stroke="#666"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={60}
+            x1={770}
+            x2={770}
+            y={265}
+            y1={271}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={30}
+            orientation="bottom"
+            stroke="none"
+            textAnchor="middle"
+            type="category"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={710}
+            x={770}
+            y={273}
+          >
+            <tspan
+              dy="0.71em"
+              x={770}
+            >
+              17
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+      className="recharts-layer recharts-cartesian-axis recharts-yAxis yAxis"
+    >
+      <line
+        className="recharts-yAxis yAxis"
+        fill="none"
+        height={260}
+        orientation="left"
+        stroke="#666"
+        type="number"
+        viewBox={
+          Object {
+            "height": 300,
+            "width": 800,
+            "x": 0,
+            "y": 0,
+          }
+        }
+        width={60}
+        x={0}
+        x1={60}
+        x2={60}
+        y={5}
+        y1={5}
+        y2={265}
+      />
+      <g
+        className="recharts-cartesian-axis-ticks"
+      >
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-yAxis yAxis"
+            fill="none"
+            height={260}
+            orientation="left"
+            stroke="#666"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={0}
+            x1={54}
+            x2={60}
+            y={5}
+            y1={265}
+            y2={265}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={260}
+            orientation="left"
+            stroke="none"
+            textAnchor="end"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={52}
+            y={265}
+          >
+            <tspan
+              dy="0.355em"
+              x={52}
+            >
+              0
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-yAxis yAxis"
+            fill="none"
+            height={260}
+            orientation="left"
+            stroke="#666"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={0}
+            x1={54}
+            x2={60}
+            y={5}
+            y1={200}
+            y2={200}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={260}
+            orientation="left"
+            stroke="none"
+            textAnchor="end"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={52}
+            y={200}
+          >
+            <tspan
+              dy="0.355em"
+              x={52}
+            >
+              40
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-yAxis yAxis"
+            fill="none"
+            height={260}
+            orientation="left"
+            stroke="#666"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={0}
+            x1={54}
+            x2={60}
+            y={5}
+            y1={135}
+            y2={135}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={260}
+            orientation="left"
+            stroke="none"
+            textAnchor="end"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={52}
+            y={135}
+          >
+            <tspan
+              dy="0.355em"
+              x={52}
+            >
+              80
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-yAxis yAxis"
+            fill="none"
+            height={260}
+            orientation="left"
+            stroke="#666"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={0}
+            x1={54}
+            x2={60}
+            y={5}
+            y1={70}
+            y2={70}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={260}
+            orientation="left"
+            stroke="none"
+            textAnchor="end"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={52}
+            y={70}
+          >
+            <tspan
+              dy="0.355em"
+              x={52}
+            >
+              120
+            </tspan>
+          </text>
+        </g>
+        <g
+          className="recharts-layer recharts-cartesian-axis-tick"
+        >
+          <line
+            className="recharts-yAxis yAxis"
+            fill="none"
+            height={260}
+            orientation="left"
+            stroke="#666"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={0}
+            x1={54}
+            x2={60}
+            y={5}
+            y1={5}
+            y2={5}
+          />
+          <text
+            className="recharts-text recharts-cartesian-axis-tick-value"
+            fill="#666"
+            height={260}
+            orientation="left"
+            stroke="none"
+            textAnchor="end"
+            type="number"
+            viewBox={
+              Object {
+                "height": 300,
+                "width": 800,
+                "x": 0,
+                "y": 0,
+              }
+            }
+            width={60}
+            x={52}
+            y={5}
+          >
+            <tspan
+              dy="0.355em"
+              x={52}
+            >
+              160
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+      className="recharts-layer recharts-line"
+    >
+      <path
+        className="recharts-curve recharts-line-curve"
+        clipPath={null}
+        d="M60,240.625L104.375,240.625L148.75,240.755L193.125,240.77125L237.5,239.35750000000002L281.875,239.32500000000002L326.25,239.39L370.625,239.39L415,235.815L459.375,240.95L503.75,231.44375L548.125,212.69125L592.5,212.69125L636.875,211.26125L681.25,211.26125L725.625,180.565L770,166.72"
+        fill="none"
+        height={260}
+        onAnimationEnd={[Function]}
+        onAnimationStart={[Function]}
+        points={
+          Array [
+            Object {
+              "payload": Object {
+                "CAC40": 144.95,
+                "NASDAQ": 15,
+                "id": 1,
+              },
+              "value": 15,
+              "x": 60,
+              "y": 240.625,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 144.94,
+                "NASDAQ": 15,
+                "id": 2,
+              },
+              "value": 15,
+              "x": 104.375,
+              "y": 240.625,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 54.83,
+                "NASDAQ": 14.92,
+                "id": 3,
+              },
+              "value": 14.92,
+              "x": 148.75,
+              "y": 240.755,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 54.83,
+                "NASDAQ": 14.91,
+                "id": 4,
+              },
+              "value": 14.91,
+              "x": 193.125,
+              "y": 240.77125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 53.01,
+                "NASDAQ": 15.78,
+                "id": 5,
+              },
+              "value": 15.78,
+              "x": 237.5,
+              "y": 239.35750000000002,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 51.96,
+                "NASDAQ": 15.8,
+                "id": 6,
+              },
+              "value": 15.8,
+              "x": 281.875,
+              "y": 239.32500000000002,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 82.93,
+                "NASDAQ": 15.76,
+                "id": 7,
+              },
+              "value": 15.76,
+              "x": 326.25,
+              "y": 239.39,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 79.77,
+                "NASDAQ": 15.76,
+                "id": 8,
+              },
+              "value": 15.76,
+              "x": 370.625,
+              "y": 239.39,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 81.31,
+                "NASDAQ": 17.96,
+                "id": 9,
+              },
+              "value": 17.96,
+              "x": 415,
+              "y": 235.815,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 109.72,
+                "NASDAQ": 14.8,
+                "id": 10,
+              },
+              "value": 14.8,
+              "x": 459.375,
+              "y": 240.95,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 110.43,
+                "NASDAQ": 20.65,
+                "id": 11,
+              },
+              "value": 20.65,
+              "x": 503.75,
+              "y": 231.44375,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 56.51,
+                "NASDAQ": 32.19,
+                "id": 12,
+              },
+              "value": 32.19,
+              "x": 548.125,
+              "y": 212.69125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 56.49,
+                "NASDAQ": 32.19,
+                "id": 13,
+              },
+              "value": 32.19,
+              "x": 592.5,
+              "y": 212.69125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 63.69,
+                "NASDAQ": 33.07,
+                "id": 14,
+              },
+              "value": 33.07,
+              "x": 636.875,
+              "y": 211.26125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 46.03,
+                "NASDAQ": 33.07,
+                "id": 15,
+              },
+              "value": 33.07,
+              "x": 681.25,
+              "y": 211.26125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 46.03,
+                "NASDAQ": 51.96,
+                "id": 16,
+              },
+              "value": 51.96,
+              "x": 725.625,
+              "y": 180.565,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 19.98,
+                "NASDAQ": 60.48,
+                "id": 17,
+              },
+              "value": 60.48,
+              "x": 770,
+              "y": 166.72,
+            },
+          ]
+        }
+        stroke="#eb7d3c"
+        strokeDasharray="0px 0px"
+        strokeWidth={1}
+        type="linear"
+        width={710}
+      />
+    </g>
+    <g
+      className="recharts-layer recharts-line"
+    >
+      <path
+        className="recharts-curve recharts-line-curve"
+        clipPath={null}
+        d="M60,29.45625000000001L104.375,29.472500000000004L148.75,175.90124999999998L193.125,175.90124999999998L237.5,178.85875000000001L281.875,180.565L326.25,130.23874999999998L370.625,135.37375L415,132.87125L459.375,86.705L503.75,85.55124999999998L548.125,173.17125000000001L592.5,173.20374999999999L636.875,161.50375L681.25,190.20125L725.625,190.20125L770,232.5325"
+        fill="none"
+        height={260}
+        onAnimationEnd={[Function]}
+        onAnimationStart={[Function]}
+        points={
+          Array [
+            Object {
+              "payload": Object {
+                "CAC40": 144.95,
+                "NASDAQ": 15,
+                "id": 1,
+              },
+              "value": 144.95,
+              "x": 60,
+              "y": 29.45625000000001,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 144.94,
+                "NASDAQ": 15,
+                "id": 2,
+              },
+              "value": 144.94,
+              "x": 104.375,
+              "y": 29.472500000000004,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 54.83,
+                "NASDAQ": 14.92,
+                "id": 3,
+              },
+              "value": 54.83,
+              "x": 148.75,
+              "y": 175.90124999999998,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 54.83,
+                "NASDAQ": 14.91,
+                "id": 4,
+              },
+              "value": 54.83,
+              "x": 193.125,
+              "y": 175.90124999999998,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 53.01,
+                "NASDAQ": 15.78,
+                "id": 5,
+              },
+              "value": 53.01,
+              "x": 237.5,
+              "y": 178.85875000000001,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 51.96,
+                "NASDAQ": 15.8,
+                "id": 6,
+              },
+              "value": 51.96,
+              "x": 281.875,
+              "y": 180.565,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 82.93,
+                "NASDAQ": 15.76,
+                "id": 7,
+              },
+              "value": 82.93,
+              "x": 326.25,
+              "y": 130.23874999999998,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 79.77,
+                "NASDAQ": 15.76,
+                "id": 8,
+              },
+              "value": 79.77,
+              "x": 370.625,
+              "y": 135.37375,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 81.31,
+                "NASDAQ": 17.96,
+                "id": 9,
+              },
+              "value": 81.31,
+              "x": 415,
+              "y": 132.87125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 109.72,
+                "NASDAQ": 14.8,
+                "id": 10,
+              },
+              "value": 109.72,
+              "x": 459.375,
+              "y": 86.705,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 110.43,
+                "NASDAQ": 20.65,
+                "id": 11,
+              },
+              "value": 110.43,
+              "x": 503.75,
+              "y": 85.55124999999998,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 56.51,
+                "NASDAQ": 32.19,
+                "id": 12,
+              },
+              "value": 56.51,
+              "x": 548.125,
+              "y": 173.17125000000001,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 56.49,
+                "NASDAQ": 32.19,
+                "id": 13,
+              },
+              "value": 56.49,
+              "x": 592.5,
+              "y": 173.20374999999999,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 63.69,
+                "NASDAQ": 33.07,
+                "id": 14,
+              },
+              "value": 63.69,
+              "x": 636.875,
+              "y": 161.50375,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 46.03,
+                "NASDAQ": 33.07,
+                "id": 15,
+              },
+              "value": 46.03,
+              "x": 681.25,
+              "y": 190.20125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 46.03,
+                "NASDAQ": 51.96,
+                "id": 16,
+              },
+              "value": 46.03,
+              "x": 725.625,
+              "y": 190.20125,
+            },
+            Object {
+              "payload": Object {
+                "CAC40": 19.98,
+                "NASDAQ": 60.48,
+                "id": 17,
+              },
+              "value": 19.98,
+              "x": 770,
+              "y": 232.5325,
+            },
+          ]
+        }
+        stroke="#5e9cd3"
+        strokeDasharray="0px 0px"
+        strokeWidth={1}
+        type="linear"
+        width={710}
+      />
+    </g>
+  </svg>
+  <div
+    className="recharts-legend-wrapper"
+    style={
+      Object {
+        "bottom": 5,
+        "height": "auto",
+        "left": 0,
+        "position": "absolute",
+        "width": 770,
+      }
+    }
+  >
+    <ul
+      className="recharts-default-legend"
+      style={
+        Object {
+          "margin": 0,
+          "padding": 0,
+          "textAlign": "center",
+        }
+      }
+    >
+      <li
+        className="recharts-legend-item legend-item-0"
+        style={
+          Object {
+            "display": "inline-block",
+            "marginRight": 10,
+          }
+        }
+      >
+        <svg
+          className="recharts-surface"
+          height={14}
+          style={
+            Object {
+              "display": "inline-block",
+              "marginRight": 4,
+              "verticalAlign": "middle",
+            }
+          }
+          version="1.1"
+          viewBox="0 0 32 32"
+          width={14}
+        >
+          <path
+            className="recharts-legend-icon"
+            d="M0,16h10.666666666666666
+            A5.333333333333333,5.333333333333333,0,1,1,21.333333333333332,16
+            H32M21.333333333333332,16
+            A5.333333333333333,5.333333333333333,0,1,1,10.666666666666666,16"
+            fill="none"
+            stroke="#eb7d3c"
+            strokeWidth={4}
+          />
+        </svg>
+        <span
+          className="recharts-legend-item-text"
+        >
+          NASDAQ
+        </span>
+      </li>
+      <li
+        className="recharts-legend-item legend-item-1"
+        style={
+          Object {
+            "display": "inline-block",
+            "marginRight": 10,
+          }
+        }
+      >
+        <svg
+          className="recharts-surface"
+          height={14}
+          style={
+            Object {
+              "display": "inline-block",
+              "marginRight": 4,
+              "verticalAlign": "middle",
+            }
+          }
+          version="1.1"
+          viewBox="0 0 32 32"
+          width={14}
+        >
+          <path
+            className="recharts-legend-icon"
+            d="M0,16h10.666666666666666
+            A5.333333333333333,5.333333333333333,0,1,1,21.333333333333332,16
+            H32M21.333333333333332,16
+            A5.333333333333333,5.333333333333333,0,1,1,10.666666666666666,16"
+            fill="none"
+            stroke="#5e9cd3"
+            strokeWidth={4}
+          />
+        </svg>
+        <span
+          className="recharts-legend-item-text"
+        >
+          CAC40
+        </span>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

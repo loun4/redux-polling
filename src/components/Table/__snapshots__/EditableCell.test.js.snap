@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render EditableCell 1`] = `
+<td>
+  <input
+    onChange={[Function]}
+    onFocus={[Function]}
+    step=".01"
+    type="number"
+    value={1}
+  />
+</td>
+`;
